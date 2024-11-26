@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=prakhal-gupta&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prakhal-gupta&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhal-gupta&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-### Year-Specific Data:
-[View 2024 Contribution Data](https://github.com/prakhal-gupta?tab=overview&from=2024-01-01&to=2024-12-31)
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prakhal-gupta&theme=neon&no-frame=false&no-bg=true&margin-w=4)
